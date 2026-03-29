@@ -1,0 +1,16 @@
+age,experience,education_level,hours_per_week,salary
+22,1,Bachelors,40,25000
+25,3,Masters,45,40000
+28,5,Bachelors,50,50000
+35,10,PhD,60,90000
+40,12,Masters,55,80000
+23,2,Bachelors,38,27000
+30,7,Masters,50,60000
+45,15,PhD,65,120000
+50,20,PhD,70,150000
+27,4,Bachelors,42,45000
+33,8,Masters,48,65000
+29,6,Bachelors,46,52000
+41,13,PhD,60,100000
+38,11,Masters,55,85000
+26,3,Bachelors,40,42000
