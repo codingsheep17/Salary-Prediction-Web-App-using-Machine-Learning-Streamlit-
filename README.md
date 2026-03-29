@@ -53,7 +53,7 @@ Built using **Python, Scikit-learn, and Streamlit**, this project demonstrates e
 ---
 
 ## ⚙️ Installation (Run Locally)
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/codingsheep17/Salary-Prediction-Web-App-using-Machine-Learning-Streamlit-.git
 cd your-repo-name
 pip install -r requirements.txt
 streamlit run app.py
